@@ -14,11 +14,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Overview
-This is a QR Code challenge
+This is a simple QR Code challenge conducted by the FrontendMentor. Happy to participate in this challenge .
+Frontend Mentor projects are designed to mimic real-world design and development scenarios.By completing these challenges,
+we gain hands-on experience in coding and designing user interfaces.
 
 ### Screenshot
 
-find both desktop-view  and mobile-view
+find both desktop-view  and mobile-view here
 ![](./design/desktop-design.jpg)
 ![](./design/mobile-design.jpg)
 
@@ -26,8 +28,7 @@ find both desktop-view  and mobile-view
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://callmevineeth.github.io/QRCodeDesign/)
 
 
 
@@ -41,6 +42,5 @@ find both desktop-view  and mobile-view
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@callmeVineeth](https://www.frontendmentor.io/profile/callmeVineeth)
+- LinkedIn - [@Vineeth PV](https://www.linkedin.com/in/vineeth-p-v-9216021b8/)
